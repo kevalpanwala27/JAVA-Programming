@@ -10,6 +10,7 @@ class Circle {
         return perimeter();
     }
 }
+
 class Cylinder extends Circle {
     public double height;
     public double volume() {
@@ -30,3 +31,4 @@ public class inheritance_circle {
 
 // generalization means interfaces.
 // specialization means inheritance.
+
